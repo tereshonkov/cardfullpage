@@ -2,7 +2,7 @@
 
 export default function Reviews() {
   return (
-          <div className="border border-[#E5E7EB] rounded-[1rem] p-[1rem] w-full flex flex-col gap-[43px] lg:min-w-[956px] lg:max-w-[61.5%]">
+          <div className="border border-[#E5E7EB] rounded-[1rem] p-[1rem] w-full flex flex-col gap-[43px] lg:min-w-[956px] lg:max-w-[61.5%] 2xl:max-w-[76%]">
         <div className="flex flex-col gap-[1rem]">
           <h2 className="text-[#263A6B] text-center text-xl font-bold">Ratings and reviews</h2>
           <div className="flex flex-col gap-[44px] lg:flex-row">

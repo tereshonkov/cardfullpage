@@ -18,7 +18,7 @@ export default function ProductItem() {
       <div className="flex flex-col max-w-screen gap-2 overflow-hidden lg:flex-row lg:gap-4 ">
         <Product />
 
-        <div className="flex flex-col max-w-[358px] gap-4 lg:min-w-[436px]">
+        <div className="flex flex-col max-w-[358px] gap-4 lg:w-[31%] lg:max-w-[35%]">
           <Seller />
           <Adress />
         </div>
