@@ -216,64 +216,64 @@ export default function ProductItem() {
 
       {/* Block Two */}
       <div className="flex flex-col p-[1rem] w-screen gap-[0.5rem] overflow-hidden">
-      <div className="flex flex-col gap-[32px] border border-[#E5E7EB] rounded-[1rem] p-[1rem] w-full">
-        <div className="flex flex-col gap-[12px]">
-          <h2 className="text-[#263A6B] text-xl font-bold">Product Overview:</h2>
-          <p className="text-[#1E2939]">
-            Enjoy both comfort and elegance with this stylish gray couch,
-            designed to suit modern and classic décor alike. Made from
-            high-quality materials, it comes with comfortable cushions that add
-            both aesthetic and functional value to any living space.
-          </p>
+        <div className="flex flex-col gap-[32px] border border-[#E5E7EB] rounded-[1rem] p-[1rem] w-full">
+          <div className="flex flex-col gap-[12px]">
+            <h2 className="text-[#263A6B] text-xl font-bold">Product Overview:</h2>
+            <p className="text-[#1E2939]">
+              Enjoy both comfort and elegance with this stylish gray couch,
+              designed to suit modern and classic décor alike. Made from
+              high-quality materials, it comes with comfortable cushions that add
+              both aesthetic and functional value to any living space.
+            </p>
+          </div>
+          <div className="flex flex-col gap-[12px]">
+            <h2 className="text-[#263A6B] text-xl font-bold">Key Features:</h2>
+            <p className="text-[#1E2939]">
+              Premium Materials: Soft, durable fabric that’s resistant to stains
+              and wear. </p>
+            <p className="text-[#1E2939]">Ultimate Comfort: Ergonomic design provides long-lasting
+              seating comfort.</p>
+            <p className="text-[#1E2939]">Easy to Clean: Removable and washable cushions.</p>
+            <p className="text-[#1E2939]">Fits Any Space: Medium-sized design ideal for apartments and open
+              spaces.</p>
+            <p className="text-[#1E2939]">Neutral Gray Color: Matches all furniture styles and color
+              schemes.</p>
+          </div>
+          <div className="flex flex-col gap-[12px]">
+            <h2 className="text-[#263A6B] text-xl font-bold">Package Contents:</h2>
+            <p className="text-[#1E2939]">
+              1 × Gray Couch </p>
+            <p className="text-[#1E2939]">5 × Cushions</p>
+            <p className="text-[#1E2939]">1 × User manual (assembly & care
+              instructions)</p>
+          </div>
+          <div className="flex flex-col gap-[12px]">
+            <h2 className="text-[#263A6B] text-xl font-bold">Shipping & Returns:</h2>
+            <p className="text-[#1E2939]">Delivery: Within 2–5 business days inside Egypt.
+            </p>
+            <p className="text-[#1E2939]">Returns: Within 14 days of delivery if you're not satisfied.</p>
+          </div>
+          <div className="flex flex-col gap-[12px]">
+            <h2 className="text-[#263A6B] text-xl font-bold">Price & Current Offer:</h2>
+            <p className="text-[#1E2939]">Price: $ 3,200</p>
+            <p className="text-[#1E2939]">Offer: 10% discount for a limited time + Free delivery within 3 days.</p>
+          </div>
         </div>
-        <div className="flex flex-col gap-[12px]">
-          <h2 className="text-[#263A6B] text-xl font-bold">Key Features:</h2>
-          <p className="text-[#1E2939]">
-            Premium Materials: Soft, durable fabric that’s resistant to stains
-            and wear. </p>
-          <p className="text-[#1E2939]">Ultimate Comfort: Ergonomic design provides long-lasting
-          seating comfort.</p>
-          <p className="text-[#1E2939]">Easy to Clean: Removable and washable cushions.</p>
-          <p className="text-[#1E2939]">Fits Any Space: Medium-sized design ideal for apartments and open
-          spaces.</p>
-          <p className="text-[#1E2939]">Neutral Gray Color: Matches all furniture styles and color
-          schemes.</p>
-        </div>
-        <div className="flex flex-col gap-[12px]">
-          <h2 className="text-[#263A6B] text-xl font-bold">Package Contents:</h2>
-          <p className="text-[#1E2939]">
-            1 × Gray Couch </p>
-          <p className="text-[#1E2939]">5 × Cushions</p>
-          <p className="text-[#1E2939]">1 × User manual (assembly & care
-            instructions)</p>
-        </div>
-        <div className="flex flex-col gap-[12px]">
-          <h2 className="text-[#263A6B] text-xl font-bold">Shipping & Returns:</h2>
-          <p className="text-[#1E2939]">Delivery: Within 2–5 business days inside Egypt.
-          </p>
-          <p className="text-[#1E2939]">Returns: Within 14 days of delivery if you're not satisfied.</p>
-        </div>
-        <div className="flex flex-col gap-[12px]">
-          <h2 className="text-[#263A6B] text-xl font-bold">Price & Current Offer:</h2>
-          <p className="text-[#1E2939]">Price: $ 3,200</p>
-          <p className="text-[#1E2939]">Offer: 10% discount for a limited time + Free delivery within 3 days.</p>
-        </div>
-      </div>
 
-      {/* Seller */}
-      <div className="border border-[#E5E7EB] rounded-[1rem] p-[1rem] w-full flex flex-col gap-[24px]">
-            <div className="flex flex-col justify-center items-center gap-[24px]">
-              <h2 className="text-[#263A6B] text-xl font-bold">Seller</h2>
+        {/* Seller */}
+        <div className="border border-[#E5E7EB] rounded-[1rem] p-[1rem] w-full flex flex-col gap-[24px]">
+          <div className="flex flex-col justify-center items-center gap-[24px]">
+            <h2 className="text-[#263A6B] text-xl font-bold">Seller</h2>
             <div className="flex flex-col justify-center items-center gap-[8px]">
-            <img className="rounded-full w-[72px] h-[72px]" src="/avatar.jpg" alt="avatar" />
+              <img className="rounded-full w-[72px] h-[72px]" src="/avatar.jpg" alt="avatar" />
               <span className="text-[#263A6B] font-bold">Jacob Jones</span>
               <div className="flex justify-center items-center gap-[4px] w-full">
                 <img className="w-[1rem] h-[1rem]" src="/Star.jpg" alt="star" />
                 <span className="text-[#304A89]">4.8</span>
-            </div>
               </div>
             </div>
-            <div className="flex flex-col gap-[8px]">
+          </div>
+          <div className="flex flex-col gap-[8px]">
             <div className="flex justify-center gap-[16px] py-2 px-4 border border-[#E5E7EB] rounded-[0.5rem]">
               <img src="/watsup.svg" alt="watsup" />
               <span className="text-[#263A6B]">Contact him</span>
@@ -282,10 +282,307 @@ export default function ProductItem() {
               <img src="/call.svg" alt="call" />
               <span className="text-[#263A6B]">+201273232035</span>
             </div>
+          </div>
+          <p className="text-[#263A6B] text-center underline">View all product</p> {/*link*/}
+        </div>
+        {/* Adress */}
+        <div className="border border-[#E5E7EB] rounded-[1rem] p-[1rem] w-full flex flex-col gap-[21px]">
+          <div className="flex flex-col gap-[12px]">
+            <div className="flex gap-[4px]">
+              <img className="text-[#263A6B]" src="/location.svg" alt="location" />
+              <h2 className="text-[#263A6B]">Address</h2>
             </div>
-            <p className="text-[#263A6B] text-center underline">View all product</p> {/*link*/}
-      </div>
+            <div>
+              <p className="text-[#101828]">Kyivska St, 77, Zhytomyr, Zhytomyr Oblast, 10001</p>
+            </div>
+          </div>
+          <div className="w-full max-h-[182px] rounded-[1rem] overflow-hidden flex justify-center items-center">
+            <img src="/map.jpg" alt="map" />
+          </div>
+        </div>
+        {/* Reviews */}
+        <div className="border border-[#E5E7EB] rounded-[1rem] p-[1rem] w-full flex flex-col gap-[43px]">
+          <div className="flex flex-col gap-[1rem]">
+            <h2 className="text-[#263A6B] text-center text-xl font-bold">Ratings and reviews</h2>
+            <div className="flex flex-col gap-[44px]">
+              <div className="text-[#263A6B] flex flex-col items-center gap-[4px]">
+                <p className="text-[#263A6B] text-4xl font-bold">4.8</p>
+                <div className="flex gap-[4px] w-full justify-center">
+                  <img
+                    className="w-[24px] h-[24px]"
+                    src="/Star.jpg"
+                    alt="star"
+                  />
+                  <img
+                    className="w-[24px] h-[24px]"
+                    src="/Star.jpg"
+                    alt="star"
+                  />
+                  <img
+                    className="w-[24px] h-[24px]"
+                    src="/Star.jpg"
+                    alt="star"
+                  />
+                  <img
+                    className="w-[24px] h-[24px]"
+                    src="/Star.jpg"
+                    alt="star"
+                  />
+                  <img
+                    className="w-[24px] h-[24px]"
+                    src="/Star50.jpg"
+                    alt="star 50%"
+                  />
+                </div>
+                <p className="text-[#263A6B] mt-[12px] text-base">Based on <span className="font-bold">500</span> reviews</p>
+              </div>
+              <div>
+                <div className="flex gap-[1rem] justify-center items-center">
+                  <div className="flex gap-[4px] items-center">
+                    <span className="text-[#263A6B] font-bold">5</span>
+                    <div className="star">
+                      <img src="/Star.jpg" alt="star" />
+                    </div>
+                  </div>
+                  <div className="flex gap-[4px] items-center">
+                    <div className="relative w-[191px] h-[12px] bg-[#EBEEF5] rounded-[8px]">
+                      <div className="block w-[93px] h-[12px] bg-[#263A6B] rounded-[8px] absolute top-0 left-0"></div>
+                    </div>
+                    <span className="text-[#304A89]">24k</span>
+                  </div>
+                </div>
+                <div className="flex gap-[1rem] justify-center items-center">
+                  <div className="flex gap-[4px] items-center">
+                    <span className="text-[#263A6B] font-bold">4</span>
+                    <div className="star">
+                      <img src="/Star.jpg" alt="star" />
+                    </div>
+                  </div>
+                  <div className="flex gap-[4px] items-center">
+                    <div className="relative w-[191px] h-[12px] bg-[#EBEEF5] rounded-[8px]">
+                      <div className="block w-[194px] h-[12px] bg-[#263A6B] rounded-[8px] absolute top-0 left-0"></div>
+                    </div>
+                    <span className="text-[#304A89]">24k</span>
+                  </div>
+                </div>
+                <div className="flex gap-[1rem] justify-center items-center">
+                  <div className="flex gap-[4px] items-center">
+                    <span className="text-[#263A6B] font-bold">3</span>
+                    <div className="star">
+                      <img src="/Star.jpg" alt="star" />
+                    </div>
+                  </div>
+                  <div className="flex gap-[4px] items-center">
+                    <div className="relative w-[191px] h-[12px] bg-[#EBEEF5] rounded-[8px]">
+                      <div className="block w-[114px] h-[12px] bg-[#263A6B] rounded-[8px] absolute top-0 left-0"></div>
+                    </div>
+                    <span className="text-[#304A89]">24k</span>
+                  </div>
+                </div>
+                <div className="flex gap-[1rem] justify-center items-center">
+                  <div className="flex gap-[4px] items-center">
+                    <span className="text-[#263A6B] font-bold">2</span>
+                    <div className="star">
+                      <img src="/Star.jpg" alt="star" />
+                    </div>
+                  </div>
+                  <div className="flex gap-[4px] items-center">
+                    <div className="relative w-[191px] h-[12px] bg-[#EBEEF5] rounded-[8px]">
+                      <div className="block w-[60px] h-[12px] bg-[#263A6B] rounded-[8px] absolute top-0 left-0"></div>
+                    </div>
+                    <span className="text-[#304A89]">24k</span>
+                  </div>
+                </div>
+                <div className="flex gap-[1rem] justify-center items-center">
+                  <div className="flex gap-[4px] items-center">
+                    <span className="text-[#263A6B] font-bold">1</span>
+                    <div className="star">
+                      <img src="/Star.jpg" alt="star" />
+                    </div>
+                  </div>
+                  <div className="flex gap-[4px] items-center">
+                    <div className="relative w-[191px] h-[12px] bg-[#EBEEF5] rounded-[8px]">
+                      <div className="block w-[38px] h-[12px] bg-[#263A6B] rounded-[8px] absolute top-0 left-0"></div>
+                    </div>
+                    <span className="text-[#304A89]">24k</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="flex flex-col gap-[43px]">
+            <div className="flex flex-col gap-[24px]">
+              <div className="flex flex-col gap-12px]">
+                <div className="flex gap-[4px] w-full justify-srart">
+                  <img
+                    className="w-[20px] h-[20px]"
+                    src="/Star.jpg"
+                    alt="star"
+                  />
+                  <img
+                    className="w-[20px] h-[20px]"
+                    src="/Star.jpg"
+                    alt="star"
+                  />
+                  <img
+                    className="w-[20px] h-[20px]"
+                    src="/Star.jpg"
+                    alt="star"
+                  />
+                  <img
+                    className="w-[20px] h-[20px]"
+                    src="/Star.jpg"
+                    alt="star"
+                  />
+                  <img
+                    className="w-[20px] h-[20px]"
+                    src="/Star50.jpg"
+                    alt="star 50%"
+                  />
+                </div>
+                <span className="text-[#1E2939]">Jacob Jones , 15 days ago</span>
+              </div>
+              <div className="text-[#1E2939] flex flex-col gap-[1rem]">
+                <h3 className="font-bold">I absolutely love </h3>
+                <p>I absolutely love this product and I ordered so much of it it'll take me awhile to run out or run low but I am going to order more when I do run low well worth the time</p>
+              </div>
+              <div className="flex gap-[24px] items-center text-[#263A6B]">
+                <p>was this helpful ?</p>
+                <div className="flex gap-[1rem] cursor-pointer">
 
+                  <img src="/like.svg" alt="like" />
+
+                  <img src="/dislike.svg" alt="dislike" />
+
+                </div>
+              </div>
+            </div>
+            <div className="flex flex-col gap-[24px]">
+              <div className="flex flex-col gap-12px]">
+                <div className="flex gap-[4px] w-full justify-start">
+                  <img
+                    className="w-[20px] h-[20px]"
+                    src="/Star.jpg"
+                    alt="star"
+                  />
+                  <img
+                    className="w-[20px] h-[20px]"
+                    src="/Star.jpg"
+                    alt="star"
+                  />
+                  <img
+                    className="w-[20px] h-[20px]"
+                    src="/Star.jpg"
+                    alt="star"
+                  />
+                  <img
+                    className="w-[20px] h-[20px]"
+                    src="/Star.jpg"
+                    alt="star"
+                  />
+                  <img
+                    className="w-[20px] h-[20px]"
+                    src="/Star50.jpg"
+                    alt="star 50%"
+                  />
+                </div>
+                <span className="text-[#1E2939]">Jacob Jones , 15 days ago</span>
+              </div>
+              <div className="text-[#1E2939] flex flex-col gap-[1rem]">
+                <h3 className="font-bold">I absolutely love </h3>
+                <p>I absolutely love this product and I ordered so much of it it'll take me awhile to run out or run low but I am going to order more when I do run low well worth the time</p>
+              </div>
+              <div className="flex gap-[24px] items-center text-[#263A6B]">
+                <p>was this helpful ?</p>
+                <div className="flex gap-[1rem] cursor-pointer">
+
+                  <img src="/like.svg" alt="like" />
+
+                  <img src="/dislike.svg" alt="dislike" />
+
+                </div>
+              </div>
+            </div>
+            <div className="flex flex-col gap-[24px]">
+              <div className="flex flex-col gap-12px]">
+                <div className="flex gap-[4px] w-full justify-start">
+                  <img
+                    className="w-[20px] h-[20px]"
+                    src="/Star.jpg"
+                    alt="star"
+                  />
+                  <img
+                    className="w-[20px] h-[20px]"
+                    src="/Star.jpg"
+                    alt="star"
+                  />
+                  <img
+                    className="w-[20px] h-[20px]"
+                    src="/Star.jpg"
+                    alt="star"
+                  />
+                  <img
+                    className="w-[20px] h-[20px]"
+                    src="/Star.jpg"
+                    alt="star"
+                  />
+                  <img
+                    className="w-[20px] h-[20px]"
+                    src="/Star50.jpg"
+                    alt="star 50%"
+                  />
+                </div>
+                <span className="text-[#1E2939]">Jacob Jones , 15 days ago</span>
+              </div>
+              <div className="text-[#1E2939] flex flex-col gap-[1rem]">
+                <h3 className="font-bold">I absolutely love </h3>
+                <p>I absolutely love this product and I ordered so much of it it'll take me awhile to run out or run low but I am going to order more when I do run low well worth the time</p>
+              </div>
+              <div className="flex gap-[24px] items-center text-[#263A6B]">
+                <p>was this helpful ?</p>
+                <div className="flex gap-[1rem] cursor-pointer">
+
+                  <img src="/like.svg" alt="like" />
+
+                  <img src="/dislike.svg" alt="dislike" />
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* Slider Two */}
+        <div className="flex flex-col gap-[24px] p-[1rem] rounded-[1rem] border border-[#E5E7EB] w-full">
+          <h2 className="text-[#263A6B] font-bold text-2xl">More from Furniture</h2>
+          <div className="flex gap-[24px]  overflow-hidden">
+            <div className="flex flex-col gap-[12px] w-[256px] p-[10px] rounded-[1rem]">
+              <div className="relative w-full h-[224px] overflow-hidden rounded-[1rem]">
+                <img className="w-full h-full object-fill" src="/photo3.jpg" alt="photo" />
+              <div className="absolute top-3 right-3 border border-[#E5E7EB] rounded-[8px] w-[40px] h-[40px] bg-[#FFF] flex justify-center items-center cursor-pointer">
+                    <img className="" src="/heart.jpg" alt="heart" />
+              </div>
+              </div>
+
+              <div className="flex flex-col gap-[10px]">
+                <span className="text-[#6A7282]">Furniture</span>
+                <p>Add a touch of modern luxury to your living space with this beautifully designed gray couch</p>
+                <span className="text-[#263A6B] font-bold">$80,99</span>
+              </div>
+
+              <div className="flex gap-[12px] cursor-pointer bg-[#263A6B] py-2 px-4 justify-center items-center rounded-[8px]">
+                {/*add component*/}
+                <button className="text-[#FFFFFF]">Add to cart</button>
+                <img
+                  className="text-[#FFFFFF]"
+                  src="/icon-btn.svg"
+                  alt="icon"
+                />
+              </div>
+
+            </div>
+          </div>
+        </div>
       </div>
     </section>
   );
