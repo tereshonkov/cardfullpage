@@ -7,9 +7,9 @@ export default function SliderTwo() {
         <div className="flex gap-[24px]  overflow-hidden">
           <div className="flex flex-col gap-[12px] w-[256px] p-3 rounded-xl">
             <div className="relative w-full h-[224px] overflow-hidden rounded-xl">
-              <img className="w-full h-full object-fill" src="/photo3.jpg" alt="photo" />
+              <img className="w-full h-full object-fill" src="/ProductFullPage/photo3.jpg" alt="photo" />
               <div className="absolute top-3 right-3 border border-[#E5E7EB] rounded-[8px] w-[40px] h-[40px] bg-[#FFF] flex justify-center items-center cursor-pointer">
-                <img className="" src="/heart.jpg" alt="heart" />
+                <img className="" src="/ProductFullPage/heart.jpg" alt="heart" />
               </div>
             </div>
 
@@ -24,7 +24,7 @@ export default function SliderTwo() {
               <button className="text-[#FFFFFF]">Add to cart</button>
               <img
                 className="text-[#FFFFFF]"
-                src="/icon-btn.svg"
+                src="/ProductFullPage/icon-btn.svg"
                 alt="icon"
               />
             </div>

@@ -11,27 +11,27 @@ export default function Reviews() {
               <div className="flex gap-[4px] w-full justify-center">
                 <img
                   className="w-[24px] h-[24px]"
-                  src="/Star.jpg"
+                  src="/ProductFullPage/Star.jpg"
                   alt="star"
                 />
                 <img
                   className="w-[24px] h-[24px]"
-                  src="/Star.jpg"
+                  src="/ProductFullPage/Star.jpg"
                   alt="star"
                 />
                 <img
                   className="w-[24px] h-[24px]"
-                  src="/Star.jpg"
+                  src="/ProductFullPage/Star.jpg"
                   alt="star"
                 />
                 <img
                   className="w-[24px] h-[24px]"
-                  src="/Star.jpg"
+                  src="/ProductFullPage/Star.jpg"
                   alt="star"
                 />
                 <img
                   className="w-[24px] h-[24px]"
-                  src="/Star50.jpg"
+                  src="/ProductFullPage/Star50.jpg"
                   alt="star 50%"
                 />
               </div>
@@ -42,7 +42,7 @@ export default function Reviews() {
                 <div className="flex gap-[4px] items-center">
                   <span className="text-[#263A6B] font-bold">5</span>
                   <div className="star">
-                    <img src="/Star.jpg" alt="star" />
+                    <img src="/ProductFullPage/Star.jpg" alt="star" />
                   </div>
                 </div>
                 <div className="flex gap-[4px] items-center lg:w-full">
@@ -56,7 +56,7 @@ export default function Reviews() {
                 <div className="flex gap-[4px] items-center">
                   <span className="text-[#263A6B] font-bold">4</span>
                   <div className="star">
-                    <img src="/Star.jpg" alt="star" />
+                    <img src="/ProductFullPage/Star.jpg" alt="star" />
                   </div>
                 </div>
                 <div className="flex gap-[4px] items-center lg:w-full">
@@ -70,7 +70,7 @@ export default function Reviews() {
                 <div className="flex gap-[4px] items-center">
                   <span className="text-[#263A6B] font-bold">3</span>
                   <div className="star">
-                    <img src="/Star.jpg" alt="star" />
+                    <img src="/ProductFullPage/Star.jpg" alt="star" />
                   </div>
                 </div>
                 <div className="flex gap-[4px] items-center lg:w-full">
@@ -84,7 +84,7 @@ export default function Reviews() {
                 <div className="flex gap-[4px] items-center">
                   <span className="text-[#263A6B] font-bold">2</span>
                   <div className="star">
-                    <img src="/Star.jpg" alt="star" />
+                    <img src="/ProductFullPage/Star.jpg" alt="star" />
                   </div>
                 </div>
                 <div className="flex gap-[4px] items-center lg:w-full">
@@ -98,7 +98,7 @@ export default function Reviews() {
                 <div className="flex gap-[4px] items-center">
                   <span className="text-[#263A6B] font-bold">1</span>
                   <div className="star">
-                    <img src="/Star.jpg" alt="star" />
+                    <img src="/ProductFullPage/Star.jpg" alt="star" />
                   </div>
                 </div>
                 <div className="flex gap-[4px] items-center lg:w-full">
@@ -117,27 +117,27 @@ export default function Reviews() {
               <div className="flex gap-[4px] w-full justify-srart">
                 <img
                   className="w-[20px] h-[20px]"
-                  src="/Star.jpg"
+                  src="/ProductFullPage/Star.jpg"
                   alt="star"
                 />
                 <img
                   className="w-[20px] h-[20px]"
-                  src="/Star.jpg"
+                  src="/ProductFullPage/Star.jpg"
                   alt="star"
                 />
                 <img
                   className="w-[20px] h-[20px]"
-                  src="/Star.jpg"
+                  src="/ProductFullPage/Star.jpg"
                   alt="star"
                 />
                 <img
                   className="w-[20px] h-[20px]"
-                  src="/Star.jpg"
+                  src="/ProductFullPage/Star.jpg"
                   alt="star"
                 />
                 <img
                   className="w-[20px] h-[20px]"
-                  src="/Star50.jpg"
+                  src="/ProductFullPage/Star50.jpg"
                   alt="star 50%"
                 />
               </div>
@@ -151,9 +151,9 @@ export default function Reviews() {
               <p>was this helpful ?</p>
               <div className="flex gap-[1rem] cursor-pointer">
 
-                <img src="/like.svg" alt="like" />
+                <img src="/ProductFullPage/like.svg" alt="like" />
 
-                <img src="/dislike.svg" alt="dislike" />
+                <img src="/ProductFullPage/dislike.svg" alt="dislike" />
 
               </div>
             </div>
@@ -163,27 +163,27 @@ export default function Reviews() {
               <div className="flex gap-[4px] w-full justify-start">
                 <img
                   className="w-[20px] h-[20px]"
-                  src="/Star.jpg"
+                  src="/ProductFullPage/Star.jpg"
                   alt="star"
                 />
                 <img
                   className="w-[20px] h-[20px]"
-                  src="/Star.jpg"
+                  src="/ProductFullPage/Star.jpg"
                   alt="star"
                 />
                 <img
                   className="w-[20px] h-[20px]"
-                  src="/Star.jpg"
+                  src="/ProductFullPage/Star.jpg"
                   alt="star"
                 />
                 <img
                   className="w-[20px] h-[20px]"
-                  src="/Star.jpg"
+                  src="/ProductFullPage/Star.jpg"
                   alt="star"
                 />
                 <img
                   className="w-[20px] h-[20px]"
-                  src="/Star50.jpg"
+                  src="/ProductFullPage/Star50.jpg"
                   alt="star 50%"
                 />
               </div>
@@ -197,9 +197,9 @@ export default function Reviews() {
               <p>was this helpful ?</p>
               <div className="flex gap-[1rem] cursor-pointer">
 
-                <img src="/like.svg" alt="like" />
+                <img src="/ProductFullPage/like.svg" alt="like" />
 
-                <img src="/dislike.svg" alt="dislike" />
+                <img src="/ProductFullPage/dislike.svg" alt="dislike" />
 
               </div>
             </div>
@@ -209,27 +209,27 @@ export default function Reviews() {
               <div className="flex gap-[4px] w-full justify-start">
                 <img
                   className="w-[20px] h-[20px]"
-                  src="/Star.jpg"
+                  src="/ProductFullPage/Star.jpg"
                   alt="star"
                 />
                 <img
                   className="w-[20px] h-[20px]"
-                  src="/Star.jpg"
+                  src="/ProductFullPage/Star.jpg"
                   alt="star"
                 />
                 <img
                   className="w-[20px] h-[20px]"
-                  src="/Star.jpg"
+                  src="/ProductFullPage/Star.jpg"
                   alt="star"
                 />
                 <img
                   className="w-[20px] h-[20px]"
-                  src="/Star.jpg"
+                  src="/ProductFullPage/Star.jpg"
                   alt="star"
                 />
                 <img
                   className="w-[20px] h-[20px]"
-                  src="/Star50.jpg"
+                  src="/ProductFullPage/Star50.jpg"
                   alt="star 50%"
                 />
               </div>
@@ -243,9 +243,9 @@ export default function Reviews() {
               <p>was this helpful ?</p>
               <div className="flex gap-[1rem] cursor-pointer">
 
-                <img src="/like.svg" alt="like" />
+                <img src="/ProductFullPage/like.svg" alt="like" />
 
-                <img src="/dislike.svg" alt="dislike" />
+                <img src="/ProductFullPage/dislike.svg" alt="dislike" />
 
               </div>
             </div>

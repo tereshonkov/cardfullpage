@@ -7,23 +7,23 @@ export default function Seller() {
                 <div className="w-[52px] h-[52px] rounded-full overflow-hidden">
                     <img
                         className="w-full h-full object-fill"
-                        src="/avatar.jpg"
+                        src="/ProductFullPage/avatar.jpg"
                         alt="avatar"
                     />
                 </div>
                 <div className="lg:flex-1">
                     <h2 className="text-[#304A89]">Jacob Jones</h2>
                     <div className="flex items-center gap-1 w-full">
-                        <img className="w-[1rem] h-[1rem]" src="/Star.jpg" alt="star" />
+                        <img className="w-[1rem] h-[1rem]" src="/ProductFullPage/Star.jpg" alt="star" />
                         <span className="text-[#304A89]">4.8</span>
                     </div>
                 </div>
                 <div className="flex gap-[4px]">
                     <div className="w-[44px] h-[44px] border border-[#E5E7EB] rounded-lg flex justify-center items-center">
-                        <img className="text-[#304A89]" src="/heart.jpg" alt="heart" />
+                        <img className="text-[#304A89]" src="/ProductFullPage/heart.jpg" alt="heart" />
                     </div>
                     <div className="w-[44px] h-[44px] border border-[#E5E7EB] rounded-lg flex justify-center items-center">
-                        <img className="text-[#304A89]" src="/share.jpg" alt="share" />
+                        <img className="text-[#304A89]" src="/ProductFullPage/share.jpg" alt="share" />
                     </div>
                 </div>
             </div>
@@ -36,27 +36,27 @@ export default function Seller() {
                         <div className="flex gap-1">
                             <img
                                 className="w-[24px] h-[24px]"
-                                src="/Star.jpg"
+                                src="/ProductFullPage/Star.jpg"
                                 alt="star"
                             />
                             <img
                                 className="w-[24px] h-[24px]"
-                                src="/Star.jpg"
+                                src="/ProductFullPage/Star.jpg"
                                 alt="star"
                             />
                             <img
                                 className="w-[24px] h-[24px]"
-                                src="/Star.jpg"
+                                src="/ProductFullPage/Star.jpg"
                                 alt="star"
                             />
                             <img
                                 className="w-[24px] h-[24px]"
-                                src="/Star.jpg"
+                                src="/ProductFullPage/Star.jpg"
                                 alt="star"
                             />
                             <img
                                 className="w-[24px] h-[24px]"
-                                src="/Star50.jpg"
+                                src="/ProductFullPage/Star50.jpg"
                                 alt="star 50%"
                             />
                         </div>
@@ -64,7 +64,7 @@ export default function Seller() {
                     </div>
                     <div className="flex text-[#304A89] cursor-pointer">
                         <span>See review</span>
-                        <img src="/arrow.svg" alt="arrow" />
+                        <img src="/ProductFullPage/arrow.svg" alt="arrow" />
                     </div>
                 </div>
                 <div className="flex flex-col gap-7">
@@ -136,7 +136,7 @@ export default function Seller() {
                             <button className="text-[#FFFFFF] cursor-pointer">Add to cart</button>
                             <img
                                 className="text-[#FFFFFF]"
-                                src="/icon-btn.svg"
+                                src="/ProductFullPage/icon-btn.svg"
                                 alt="icon"
                             />
                         </div>
